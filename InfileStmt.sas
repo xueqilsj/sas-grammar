@@ -1,0 +1,11 @@
+infile datalines DSD;
+infile datalines DSD delimiter='ab';
+infile datalines DSD dlmstr='PRD' dlmsopt='i';
+infile datalines DSD;
+infile datalines MISSOVER;
+infile phonebk TRUNCOVER SCANOVER;
+infile datalines n=2 line=Linept col=Columnpt;
+infile phonbill firstobs=2;
+infile phonbill;
+infile phonbill firstobs=2;
+infile extfile encoding="utf-8";

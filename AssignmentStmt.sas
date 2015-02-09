@@ -1,0 +1,15 @@
+name='Amanda Jones';
+WholeName='Ms. '||name;
+a=a+b;
+x=max(cash,credit);
+x=sqrt(1500);
+NewCity=left(upcase(City));
+x=min(YearTemperature-July,YearTemperature-Dec);
+s=repeat('----+',16);
+x=min((enroll-drop),(enroll-fail));
+dollars=int(cash);
+a=sum(of x  y  z);
+a=sum(of x1-x10 y1-y10 z1-z10);
+a=sum(of x1-x10, of y1-y10, of z1-z10);
+z=sum(of y1-y10);
+z=msplint(x0,5,of x1-x5,of y1-y5,-2,2);

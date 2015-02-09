@@ -1,0 +1,13 @@
+call prxsubstr(prx,string,position);
+call prxchange('/old/new',1+k,trim(string),result,length);
+call set(dsid);
+call ranbin(Seed_1,n,p,X1);
+call label(abc{j},lab);
+call cats(result,'abc',123);
+call cats(inventory, of y1-y15, of z1-z15);
+call catt(of item17-item23 pack17-pack23);
+call allcomb(j, k, of x[*]);
+call ranperk(seed, 3, of x1-x5);
+call is8601_convert('du/dt', 'intvl', duC, dtC, intervalC,,7,,,35,45);
+call vname(abc{i},name); 
+call missing(of _all_);
